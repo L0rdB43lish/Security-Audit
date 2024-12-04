@@ -1,5 +1,5 @@
 # Intro
-This activity is part of the "Google Cybersecurity Professional Certificate" program.
+This activity was assigned to us as part of the Google Cybersecurity Professional Certificate program.
 
 # The Case
 
