@@ -18,6 +18,6 @@ Botium Toys's current controls
 My controls and compliance checklist
 
 ![image](https://github.com/L0rdB43lish/Security-Audit/blob/a97c8a7f1d3f3fa480b17d14a2b5c6a97b8f68c3/controls%20assessment%20checklist.jpg)
-![image](https://github.com/L0rdB43lish/Security-Audit/blob/a97c8a7f1d3f3fa480b17d14a2b5c6a97b8f68c3/compliance%20checklist.jpg)
+![image](https://github.com/L0rdB43lish/Security-Audit/blob/1cc60c9239238a8e036b36cb9c15ed750e130566/compliance%20checklist.jpg)
 ![image](https://github.com/L0rdB43lish/Security-Audit/blob/a97c8a7f1d3f3fa480b17d14a2b5c6a97b8f68c3/compliance%20gdpr%20checklist.jpg)
 ![image](https://github.com/L0rdB43lish/Security-Audit/blob/a97c8a7f1d3f3fa480b17d14a2b5c6a97b8f68c3/compliance%20soc%20checklist.jpg)
